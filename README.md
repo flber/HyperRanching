@@ -1,2 +1,2 @@
 # HyperRanching
-Protect your hyperchickens from sneaky hyperracoons that want to eat them.
+Protect your hyperchickens from sneaky raccoons that want to eat them.
